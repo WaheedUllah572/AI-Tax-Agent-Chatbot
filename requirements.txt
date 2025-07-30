@@ -1,8 +1,6 @@
 streamlit
 langchain==0.0.350
-langchain-community
 langchain-groq
 openai
 groq
-tiktoken
 python-dotenv
